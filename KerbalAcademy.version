@@ -1,24 +1,24 @@
 {
     "NAME"     : "Contract Pack: Kerbal Academy",
-    "URL"      : "https://github.com/Mark-Kerbin/Kerbal-Academy-Contract-Pack/blob/master/KerbalAcademy.version",
-    "DOWNLOAD" : "https://github.com/Mark-Kerbin/Kerbal-Academy-Contract-Pack/releases",
+    "URL"      : "https://github.com/Mark-Kerbin/Kerbal-Academy-Contract-Pack/blob/master/KerbalAcademy.version"
+    "DOWNLOAD" : "https://github.com/Mark-Kerbin/Kerbal-Academy-Contract-Pack/releases"
     "GITHUB" :
     {
-        "USERNAME" : "Mark-Kerbin",
+        "USERNAME" : "Mark-Kerbin"
         "REPOSITORY" : "Kerbal-Academy-Contract-Pack"
     },
     "VERSION" :
     {
         "MAJOR" : 1,
-        "MINOR" : 1,
-        "PATCH" : 9,
-        "BUILD" : 0
+        "MINOR" : 2,
+        "PATCH" : 0,
+        "BUILD" : 4
     },
     "KSP_VERSION" :
     {
         "MAJOR" : 1,
         "MINOR" : 4,
-        "PATCH" : 2
+        "PATCH" : 3
     },
     "KSP_VERSION_MIN" :
     {
