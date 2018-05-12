@@ -1,0 +1,73 @@
+v1.2.0 Changes
+Stable Build #5
+
+Flag Changes
+-Added /Flags/Frequent Explosions.png
+-Added /Flags/Kerbal Academy Graduation.png
+-Added /Flags/Kerbal Academy.png
+-Renamed /Flags/Legacy Kerbal Academy.png
+-Added /Flags/Use Caution.png
+
+Updated Advanced Piloting Config
+-Reworked Description
+-Fixed Spelling Errors
+-Spelling Fix Again
+-Rebalanced Cost
+-Cost Now Generated Based On Level
+
+Updated Fight School Config
+-Reworked Description
+-Cleaned Up Spelling Issues
+
+Updated Engineering 101 Config
+-Reworked Description
+-Fixed Spelling Issues
+-Rebalanced Cost
+-Cost Now Generated Based On Trainee Level
+
+Updated Engineering School Config
+-Rework Description
+-Rebalanced Cost
+-Fixed Spelling Issues
+-Cost Now Generated Based On Trainee Level
+
+Updated Scientific Principles Config
+-Rework Description
+-Rebalanced Cost
+-Fixed Spelling Issues
+-Cost Now Generated Based On Trainee Level
+
+Updated Field Science Config
+-Rework Description
+-Rebalanced Cost
+-Fixed Spelling Issues
+-Cost Now Generated Based On Trainee Level
+-Fixed Parameter Error
+
+Updated ReadMe File
+-Added Current Version Info
+
+Updated Kerbal Academy Boot Camp Config
+-Reworked Description
+-Fixed Spelling Errors
+-Fixed Drill Craft Kraken (?)
+-Contract Cost Now Generated Based On Current Hire Cost
+-Contract Cost Now Takes Funds
+-Added Refund If Training Fails
+
+Updated Agent
+-Fixed Name
+-Changed Logo To Reflect New Flags
+
+Updated Version File
+-Version File Now Reflects Build Version
+
+Added Training Drill Mk2
+-Added Training Drill Mk2
+
+Integrated New Training Drill
+-Adjusted Boot Camp Config
+-Copied Some Flags For Use In Contracts
+-Updated A Few Other Things Here And There.
+-Spelling Errors
+-General Bugfixes
