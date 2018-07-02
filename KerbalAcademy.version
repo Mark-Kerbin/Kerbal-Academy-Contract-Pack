@@ -1,7 +1,7 @@
 {
     "NAME"     : "Contract Pack: Kerbal Academy",
     "URL"      : "https://github.com/Mark-Kerbin/Kerbal-Academy-Contract-Pack/blob/master/KerbalAcademy.version",
-    "DOWNLOAD" : "https://spacedock.info/mod/1819/Kerbal%20Academy%20Contract%20Pack/download/1.2.0",
+    "DOWNLOAD" : "https://spacedock.info/mod/1819/Kerbal%20Academy%20Contract%20Pack/download/1.3.0",
     "GITHUB" :
     {
         "USERNAME" : "Mark-Kerbin",
@@ -10,15 +10,15 @@
     "VERSION" :
     {
         "MAJOR" : 1,
-        "MINOR" : 2,
-        "PATCH" : 1,
+        "MINOR" : 3,
+        "PATCH" : 0,
         "BUILD" : 1
     },
     "KSP_VERSION" :
     {
         "MAJOR" : 1,
         "MINOR" : 4,
-        "PATCH" : 3
+        "PATCH" : 4
     },
     "KSP_VERSION_MIN" :
     {

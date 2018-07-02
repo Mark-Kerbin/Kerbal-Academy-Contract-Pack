@@ -5,7 +5,7 @@ Credit nightingale for Contract Configurator which is a dependecy for this contr
 Credit Mark-Kerbin for versions 1.1.9 onward. This includes bugfixing and updating orginal work by severedsolo, and the creation and mantinance of additonal work by Mark-kerbin.
 
 **CURRENT VERSION**
-*1.2.0
+*1.3.0
 
 Updates and Issues;
 Mark-Kerbin would appreciate being notified of potential issues with Kerbal Academy Contracts, and anything contained in the Kerbal Academy folder. Please file a issue report on Kerbal Academy's Github Repo.
